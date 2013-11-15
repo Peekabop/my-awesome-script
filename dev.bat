@@ -9,6 +9,7 @@ pause
 call cinst -force firefox
 call cinst -force gow
 call cinst -force vim
+call cinst -force notepadplusplus
 echo "Programs Have Been Installed."
 pause
 
