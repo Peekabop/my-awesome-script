@@ -23,11 +23,6 @@ start notepad++.exe
 
 echo Text Editor Opened
 
-cd c:\Program files (x86)\Winamp
-start winamp.exe
-
-echo Media Player Opened
-
 cd c:\Program files (x86)\Mozilla Firefox
 start firefox.exe
 
